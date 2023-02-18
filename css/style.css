@@ -8,7 +8,6 @@ body,
 html {
     font-family: "poppins", sans-serif;
     scroll-behavior: smooth;
-    background-color: lightskyblue;
 }
 
 a {
@@ -84,11 +83,6 @@ header nav ul {
 header nav ul a {
     color: #1b1b1b;
 }
-
-span {
-    color: red;
-}
-
 
 header nav ul a:hover {
     color: #7700ff;
